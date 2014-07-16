@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="2.4">
+  <GlyphOrder src="Dorsa-Regular.ttf.GlyphOrder.ttx"/>
+  <head src="Dorsa-Regular.ttf._h_e_a_d.ttx"/>
+  <hhea src="Dorsa-Regular.ttf._h_h_e_a.ttx"/>
+  <maxp src="Dorsa-Regular.ttf._m_a_x_p.ttx"/>
+  <OS_2 src="Dorsa-Regular.ttf.O_S_2f_2.ttx"/>
+  <hmtx src="Dorsa-Regular.ttf._h_m_t_x.ttx"/>
+  <cmap src="Dorsa-Regular.ttf._c_m_a_p.ttx"/>
+  <prep src="Dorsa-Regular.ttf._p_r_e_p.ttx"/>
+  <loca src="Dorsa-Regular.ttf._l_o_c_a.ttx"/>
+  <glyf src="Dorsa-Regular.ttf._g_l_y_f.ttx"/>
+  <name src="Dorsa-Regular.ttf._n_a_m_e.ttx"/>
+  <post src="Dorsa-Regular.ttf._p_o_s_t.ttx"/>
+  <gasp src="Dorsa-Regular.ttf._g_a_s_p.ttx"/>
+  <FFTM src="Dorsa-Regular.ttf.F_F_T_M_.ttx"/>
+  <GDEF src="Dorsa-Regular.ttf.G_D_E_F_.ttx"/>
+  <GPOS src="Dorsa-Regular.ttf.G_P_O_S_.ttx"/>
+  <GSUB src="Dorsa-Regular.ttf.G_S_U_B_.ttx"/>
+  <DSIG src="Dorsa-Regular.ttf.D_S_I_G_.ttx"/>
+</ttFont>
